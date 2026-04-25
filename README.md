@@ -7,4 +7,4 @@ Applied Machine Learning & Process Modeling Engineer focused on hybrid models fo
 🤝 Open to collaboration in process optimization, digital twins, and industrial AI
 💬 Ask me about process simulation, ML for engineering, and model deployment
 
-Core stack: Python (PyTorch, TensorFlow, scikit-learn) · Aspen Plus · HYSYS · OpenFOAM
+Core stack: Python (PyTorch, TensorFlow, scikit-learn, DeepXDE) · Aspen HYSYS (COM/Python) · PyPSA · BioSTEAM · MLflow/Databricks · OpenFOAM
